@@ -1,0 +1,12 @@
+body{
+	background-color: #ecfcbc; 
+}
+.title{
+	text-align: center;
+	font-size: x-large;
+}
+
+#Sentence{
+	display: block;
+	width: 900px;
+}
